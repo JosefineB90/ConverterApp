@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="enter_value">Enter value</string>
+    <string name="unit_converter">Unit Converter</string>
+    <string name="convert">Convert</string>
+    <string name="result_will_appear_here">Result will appear here</string>
+</resources>
